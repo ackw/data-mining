@@ -1,4 +1,12 @@
 # Data Mining
-Project 1: Implementation of CBA, Data Classification with Pycaret, CMAR-Variant </br>
-Project 2: Collaborative Filtering Recommender Systems for Movie & Book Reviews - SVD, NMF, SlopeOne </br> </br>
-![Screenshot 2022-03-09 at 8 08 49 PM](https://user-images.githubusercontent.com/69747121/157439249-d0d00451-659b-49eb-b844-79b61067d537.png)
+### Project 1: Rule Generation and Classification
+- Implementation of CBA *with Apriori*
+- Data Classification with PyCaret
+- Implementation of CMAR-Variant </br>
+
+### Project 2: Recommender Systems
+- Collaborative Filtering Recommender Systems for Movie & Book Reviews
+- Algorithms: SVD, NMF, SlopeOne
+
+<img width="701" alt="Screenshot 2022-03-20 at 2 55 51 PM" src="https://user-images.githubusercontent.com/69747121/159151773-7a2552c0-59f9-4641-8870-e93278069867.png">
+<figcaption>Predicted Ratings of "Harry Potter and the Philosopher's Stone"</figcaption>
