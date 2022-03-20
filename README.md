@@ -1,10 +1,10 @@
 # Data Mining
-### Project 1: Rule Generation and Classification
+### Part 1: Rule Generation and Classification
 - Implementation of CBA *with Apriori*
 - Data Classification with PyCaret
 - Implementation of CMAR-Variant </br>
 
-### Project 2: Recommender Systems
+### Part 2: Recommender Systems
 - Collaborative Filtering Recommender Systems for Movie & Book Reviews
 - Algorithms: SVD, NMF, SlopeOne
 
